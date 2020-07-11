@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   ["dog"]
-  array.shift("arrays!")
+  array.shift "arrays!"
   
 end
 
